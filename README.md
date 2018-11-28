@@ -1,6 +1,6 @@
 # MultiDimensionalArrayProduct
 
-The function %m% is a product of three-dimensional arrays defined in Pinheiro et al (2018).
+The function %m% is a product of multidimensional arrays defined in Pinheiro et al (2018).
 In words, the three-dimensional arrays are treated as an array of matrices. 
 The length of such array is the length of the third dimension of the three-dimensional array.
 
@@ -17,4 +17,4 @@ See the MultiDimensionalArrayProduct-examples to compare to other multidimension
 
 
 Pinheiro, E. C., Ferrari, S. L. P. and Medeiros, F. M. C. (2018). Higher-order approximate confidence intervals.
-ArXiv submit/2486443
+ArXiv 1811.11031

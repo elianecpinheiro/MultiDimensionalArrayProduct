@@ -13,7 +13,7 @@ that C[; ; i; j] = A[; ; i] %*% B[; ; j].
 If A is an r x c array and B is a c x e x f array, then C = A%m%B is the r x e x f array such
 that C[; ; j] = A %*% B[; ; j].
 
-See the MultiDimensionalArrayProduct-examples to compare to other multidimensional arrays products.
+See the MultiDimensionalArrayProduct-example.R to compare to other multidimensional arrays products.
 
 
 Pinheiro, E. C., Ferrari, S. L. P. and Medeiros, F. M. C. (2018). Higher-order approximate confidence intervals.
